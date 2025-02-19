@@ -20,6 +20,11 @@ h1 {
     color: white;
 }
 
+p {
+    margin: 15px 0;
+    line-height: 140%;
+}
+
 nav {
     float: right;
 }
@@ -54,4 +59,14 @@ footer {
 .headshot {
     float: left;
     margin: 0 20px 10px 0;
+}
+
+aside img {
+    box-shadow: 3px 3px 6px black;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background: #333;
 }
