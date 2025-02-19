@@ -69,4 +69,10 @@ footer {
     position: fixed;
     bottom: 0;
     background: #333;
+    width: 100%;
+}
+
+footer p {
+    color: white;
+    font-size: 24px;
 }
