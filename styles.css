@@ -4,6 +4,10 @@
     border: 0;
 }
 
+body {
+    background-image: url(/m5-hw5-athalye-kavita/background.png);
+}
+
 header {
     background: #333;
     padding: 40px 0;
@@ -70,6 +74,7 @@ footer {
     bottom: 0;
     background: #333;
     width: 100%;
+    text-align: center;
 }
 
 footer p {
