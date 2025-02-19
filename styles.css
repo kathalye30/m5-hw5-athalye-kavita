@@ -16,6 +16,7 @@ header {
 
 h1 {
     float: left;
+    color: white;
 }
 
 nav {
@@ -24,4 +25,5 @@ nav {
 
 nav a {
     color: white;
+    margin-right: 20px;
 }
