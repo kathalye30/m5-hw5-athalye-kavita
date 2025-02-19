@@ -7,6 +7,7 @@
 header {
     background: #333;
     padding: 40px 0;
+    border-bottom: 3px solid rgb(234, 100, 122);
 }
 
 .container {
@@ -25,5 +26,32 @@ nav {
 
 nav a {
     color: white;
+    font-size: 24px;
     margin-right: 20px;
+    text-decoration: none;
+}
+
+main {
+    float: left;
+    width: 70%;
+    padding: 20px;
+}
+
+aside {
+    float: right;
+    width: 20%;
+    padding: 20px;
+}
+
+footer {
+    clear: both;
+}
+
+.main-content {
+    margin: 40px auto;
+}
+
+.headshot {
+    float: left;
+    margin: 0 20px 10px 0;
 }
